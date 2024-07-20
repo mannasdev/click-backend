@@ -21,7 +21,9 @@
     "@prisma/client": "^5.17.0",
     "axios": "^1.7.2",
     "bcrypt": "^5.1.1",
+    "diamante-sdk-js": "^1.0.3",
     "express": "^4.19.2",
-    "jsonwebtoken": "^9.0.2"
+    "jsonwebtoken": "^9.0.2",
+    "node-fetch": "^3.3.2"
   }
 }
